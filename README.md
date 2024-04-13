@@ -81,9 +81,12 @@ Scaling in data mining optimizes algorithms and infrastructure to handle growing
 - Consistent demand across sources and destinations.
 - Hotspots include the Financial District, Back Bay, and Theatre District.
   Source
+  
   <img width="320" alt="image" src="https://github.com/vummanenidilip/Uber-and-Lyft-Dataset-Boston-MA/assets/44915745/ffa7a1f0-0033-406c-ba47-d4cb93b1dfe5">
+  
   Destination
-  <img width="256" alt="image" src="https://github.com/vummanenidilip/Uber-and-Lyft-Dataset-Boston-MA/assets/44915745/ffef4439-7d80-49a4-9b68-7bed7b330a73">
+
+   <img width="256" alt="image" src="https://github.com/vummanenidilip/Uber-and-Lyft-Dataset-Boston-MA/assets/44915745/ffef4439-7d80-49a4-9b68-7bed7b330a73">
 
 
 
